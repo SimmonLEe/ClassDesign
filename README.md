@@ -1,5 +1,5 @@
 # ClassDesign
 This is my class design
-<p>Main is The findCounter Demo</P>
+main is The  Demo
 shape.jpg it's just for test
 go and take it!!!
